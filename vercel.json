@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://x.com/KuromuOno",
+      "permanent": false
+    }
+  ]
+}
